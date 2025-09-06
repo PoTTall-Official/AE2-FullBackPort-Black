@@ -1,0 +1,82 @@
+﻿itemGroup.ThaumicEnergistics=§fAE2: Мистическая энергетика§r
+
+tile.thaumicenergistics.infusion_provider.name=МЭ поставщик эссенции
+
+item.thaumicenergistics.diffusion_core.name=Ядро рассеивания
+item.thaumicenergistics.coalescence_core.name=Ядро слияния
+
+item.thaumicenergistics.essentia_component_1k.name=1К МЭ компонент хранения эссенции
+item.thaumicenergistics.essentia_component_4k.name=4К МЭ компонент хранения эссенции
+item.thaumicenergistics.essentia_component_16k.name=16К МЭ компонент хранения эссенции
+item.thaumicenergistics.essentia_component_64k.name=64К МЭ компонент хранения эссенции
+
+item.thaumicenergistics.essentia_cell_1k.name=1К МЭ ячейка хранения эссенции
+item.thaumicenergistics.essentia_cell_4k.name=4К МЭ ячейка хранения эссенции
+item.thaumicenergistics.essentia_cell_16k.name=16К МЭ ячейка хранения эссенции
+item.thaumicenergistics.essentia_cell_64k.name=64К МЭ ячейка хранения эссенции
+item.thaumicenergistics.essentia_cell_creative.name=Творческая МЭ ячейка хранения эссенции
+
+item.thaumicenergistics.essentia_import.name=МЭ шина импорта эссенции
+item.thaumicenergistics.essentia_export.name=МЭ шина экспорта эссенции
+item.thaumicenergistics.essentia_storage.name=МЭ шина хранения эссенции
+item.thaumicenergistics.essentia_terminal.name=МЭ терминал эссенции
+item.thaumicenergistics.arcane_terminal.name=МЭ мистический терминал изготовления
+
+item.thaumicenergistics.upgrade_arcane.name=Мистическая карта
+
+tooltip.thaumicenergistics.wip=Работа в прогрессе!
+
+gui.thaumicenergistics.essentia_import_bus=§fМЭ шина импорта эссенции§r
+gui.thaumicenergistics.essentia_export_bus=§fМЭ шина экспорта эссенции§r
+gui.thaumicenergistics.essentia_storage_bus=§fМЭ шина хранения эссенции§r
+gui.thaumicenergistics.essentia_terminal=§fМЭ терминал эссенции§r
+gui.thaumicenergistics.arcane_terminal=§fМЭ мистич. терм.§r
+
+gui.thaumicenergistics.vis_required=§fВис: %s§r
+gui.thaumicenergistics.vis_available=§fИмеется: %s§r
+gui.thaumicenergistics.vis_discount=§fСкидка: %s%%§r
+
+card.tinkerae.name=Карта преобразования
+card.tinkerae.text=Экспериментируйте с преобразованием эссенции в энергию, аналогичную Вашей текущей сети материи/энергии. Получайте 10–25 единиц энергии.
+
+tc.research_category.THAUMICENERGISTICS=Мистическая энергетика
+
+research.base_energistics.title=Мистическая энергетика
+research.base_energistics.stage.1=Будучи одновременно учёным и знатоком тайных наук, Вы постулировали о возможности стабильного и продуктивного объединения технологий с магией.<BR>Для этого, Вам необходимо подробно изучить принципы преобразования материи в энергию. Вероятно, существуют аспекты тауматургии, позволяющие это осуществить, а также технологии, способные сделать то-же самое.<BR>Это потребует обширных исследований, но Вы уверены, что это будет стоящим вложением своего времени.
+
+research.digisentia.title=Цифро-эссенция
+research.digisentia.stage.1=Узнав, как перегонять эссенцию, Вам пришла в голову мысль, что Вы, возможно, сможете хранить её в цифровом виде.<BR>Изучая §lядро формирования§r и §lядро уничтожения§r, Вы понимаете, что с некоторыми незначительными модификациями они могли-бы служить средством преобразования эссенции в цифровой формат и обратно.<BR>Однако из-за коррозионной природы некоторых типов эссенции для предотвращения распада требуется слой ртути вокруг ядра.
+research.digisentia.stage.2=§lЯдро диффузии§r<BR>Относительно высокая летучесть и огромная энергия дистиллированной эссенции требуют её предварительной диффузии, а затем оцифровки. Для хранения диффундированной эссенции, вероятно, потребуется какая-либо буферная камера.<PAGE><LINE>§lЯдро слияния§r<BR>Сжимает и связывает повторно материализованную диффузионную эссенцию, возвращая её в исходное состояние. Также, вероятно, потребуется буферная камера.
+
+research.essentiastorage1k.title=Хранение цифро-эссенции
+research.essentiastorage1k.stage.1=После проверки существующих цифровых носителей информации Вы пришли к выводу, что на самом деле можете хранить оцифрованную эссенцию.<BR>Добавив в §lистинный кварц§r немного §lSalis Mundus§r, он должен получить возможность хранить эссенцию, которая остаётся удивительно активной даже в цифровой форме.<BR>Вы предполагаете, что чем выше концентрация §lSalis Mundus§r, тем больше он сможет хранить, хотя существуют определенные ограничения относительно того, сколько информации может хранить сам кварц.
+research.essentiastorage1k.stage.2=Вам удалось создать устройство хранения, способное хранить небольшое количество эссенции в цифровом виде. Возможно, Вам удастся объединить несколько компонентов для увеличения объёма памяти.
+
+research.essentiastorage4k.title=Большое хранение цифро-эссенции
+research.essentiastorage4k.stage.1=Возможно, Вы сможете использовать несколько различных компонентов обработки, чтобы объединить несколько компонентов хранения эссенции вместе.
+research.essentiastorage4k.stage.2=Вы теперь можете хранить значительное количество эссенции в цифровом виде, используя некоторые вычислительные процессоры, чтобы компоненты могли взаимодействовать друг с другом.
+
+research.essentiastorage16k.title=Огромное хранение цифро-эссенции
+research.essentiastorage16k.stage.1=Как и в предыдущей попытке получить более мощные компоненты хранения, Вы сможете использовать несколько высокопроизводительных процессоров, чтобы объединить несколько компонентов хранения эссенции вместе.
+research.essentiastorage16k.stage.2=Используя другой тип процессора, Вы теперь можете хранить в 16 раз больше эссенции на компоненте, чем когда Вы начинали с своей примитивной системы хранения.
+
+research.essentiastorage64k.title=Массивное хранение цифро-эссенции
+research.essentiastorage64k.stage.1=Ваши текущие потребности в хранилище недостаточны, Вы надеетесь, что сможете объединить компоненты для создания хранилища большего размера, занимая при этом то-же пространство...
+research.essentiastorage64k.stage.2=Вы теперь можете хранить огромное количество эссенции на одном компоненте, но Вы чувствуете, что это предел технологии.
+
+research.essentiabuses.title=Транспортировка цифро-эссенции
+research.essentiabuses.stage.1=Теперь, когда Вы можете оцифровать эссенцию, пришло время применить эту технологию на практике.
+research.essentiabuses.stage.2=Вы теперь можете изготовлять шины эссенции.
+
+research.essentiaterminal.title=МЭ терминал эссенции
+research.essentiaterminal.stage.1=Теперь, когда Вы можете оцифровать эссенцию, пришло время применить эту технологию на практике.
+research.essentiaterminal.stage.2=Вы теперь можете изготовить МЭ терминал эссенции.
+
+research.infusionprovider.title=МЭ поставщик эссенции
+research.infusionprovider.stage.1=Теперь, когда Вы можете оцифровать эссенцию, пришло время применить эту технологию на практике.
+research.infusionprovider.stage.2=Вы теперь можете изготовить МЭ поставщик эссенции.
+
+research.arcaneterminal.title=МЭ мистический терминал изготовления
+research.arcaneterminal.stage.1=Может быть, Вы сможете объединить МЭ терминал с мистическим верстаком, чтобы получить что-то, что поможет Вам в своих магических начинаниях.
+research.arcaneterminal.stage.2=Вы теперь можете изготовить МЭ поставщик эссенции.
+research.arcaneterminal.addenda.1=Вы можете улучшить свой МЭ мистический терминал изготовления, чтобы увеличить дальность его действия

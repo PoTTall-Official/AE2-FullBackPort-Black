@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thaumicenergistics:item/core/coalescence_core"
+  }
+}

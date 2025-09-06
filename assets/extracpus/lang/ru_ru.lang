@@ -1,0 +1,8 @@
+# game
+itemGroup.extracpus=§9AE2: Экстремальные процессоры§r
+
+# blocks
+tile.extracpus.crafting_storage_256k.name=256К хранилище изготовления
+tile.extracpus.crafting_storage_1024k.name=1024К хранилище изготовления
+tile.extracpus.crafting_storage_4096k.name=4096К хранилище изготовления
+tile.extracpus.crafting_storage_16384k.name=16384К хранилище изготовления

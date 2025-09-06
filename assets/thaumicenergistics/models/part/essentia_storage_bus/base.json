@@ -1,0 +1,6 @@
+{
+  "parent": "appliedenergistics2:part/storage_bus_base",
+  "textures": {
+	"front": "thaumicenergistics:part/essentia_storage_bus/essentia_storage_bus"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "appliedenergistics2:items/advanced_card"
+  }
+}

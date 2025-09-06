@@ -1,0 +1,6 @@
+{
+  "parent": "appliedenergistics2:part/import_bus_base",
+  "textures": {
+	"front": "thaumicenergistics:part/essentia_import_bus/essentia_import_bus"
+  }
+}

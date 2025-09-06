@@ -1,0 +1,8 @@
+{
+  "parent": "appliedenergistics2:part/terminal_on",
+  "textures": {
+    "lightsBright": "thaumicenergistics:part/arcane_terminal/arcane_terminal_bright",
+    "lightsMedium": "thaumicenergistics:part/arcane_terminal/arcane_terminal_medium",
+    "lightsDark": "thaumicenergistics:part/arcane_terminal/arcane_terminal_dark"
+  }
+}

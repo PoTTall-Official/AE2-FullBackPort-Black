@@ -1,0 +1,14 @@
+item.Ring.0.name=Кольцо шахтёра
+
+button.baubles=§r
+button.normal=§r
+
+keybind.baublesinventory=Аксессуары
+
+name.AMULET=§6Слот: §eОжерелье§r
+name.RING=§6Слот: §eКольцо§r
+name.BELT=§6Слот: §eПояс§r
+name.TRINKET=§6Слот: §eГолова, ожерелье, тело, амулет, кольцо, пояс§r
+name.HEAD=§6Слот: §eГолова§r
+name.BODY=§6Слот: §eТело§r
+name.CHARM=§6Слот: §eАмулет§r

@@ -1,0 +1,50 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"3": "appliedenergistics2:blocks/chest/top",
+		"4": "appliedenergistics2:blocks/generics/side",
+		"5": "appliedenergistics2:blocks/generics/back",
+		"6": "appliedenergistics2:blocks/generics/bottom",
+		"7": "appliedenergistics2:blocks/generics/front",
+		"lightsBright": "appliedenergistics2:blocks/security_station_light_bright",
+		"lightsMedium": "appliedenergistics2:blocks/security_station_light_medium",
+		"lightsDark": "appliedenergistics2:blocks/security_station_light_dark",
+		"particle": "appliedenergistics2:blocks/chest/top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6"}
+			}
+		},
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#lightsBright", "tintindex": 3}
+			}
+		},
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#lightsMedium", "tintindex": 2}
+			}
+		},
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#lightsDark", "tintindex": 1}
+			}
+		}
+	],
+	"ae2_uvl_marker": true
+}

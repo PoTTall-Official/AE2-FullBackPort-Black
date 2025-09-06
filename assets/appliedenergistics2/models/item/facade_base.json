@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.6",
+	"parent": "block/block",
+	"textures": {
+		"particle": "appliedenergistics2:parts/cable_anchor",
+		"anchor": "appliedenergistics2:parts/cable_anchor"
+	},
+	"elements": [
+		{
+			"name": "Element",
+			"from": [7, 7, 1],
+			"to": [9, 9, 6],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#anchor"},
+				"east": {"uv": [0, 0, 5, 2], "texture": "#anchor"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#anchor"},
+				"west": {"uv": [0, 0, 5, 2], "texture": "#anchor"},
+				"up": {"uv": [0, 0, 2, 5], "texture": "#anchor"},
+				"down": {"uv": [0, 0, 2, 5], "texture": "#anchor"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [-4, 2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

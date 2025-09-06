@@ -1,0 +1,9 @@
+﻿gui.thaumicenergistics.essentia_import_bus=§fME Essentia Import Bus§r
+gui.thaumicenergistics.essentia_export_bus=§fME Essentia Export Bus§r
+gui.thaumicenergistics.essentia_storage_bus=§fME Essentia Storage Bus§r
+gui.thaumicenergistics.essentia_terminal=§fME Essentia Terminal§r
+gui.thaumicenergistics.arcane_terminal=§fME Arcane Term.§r
+
+gui.thaumicenergistics.vis_required=§fVis: %s§r
+gui.thaumicenergistics.vis_available=§fAvailable: %s§r
+gui.thaumicenergistics.vis_discount=§fDiscount: %s%% §r

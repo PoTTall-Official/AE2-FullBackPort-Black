@@ -1,0 +1,14 @@
+item.Ring.0.name=Miner's Ring
+
+button.baubles=§r
+button.normal=§r
+
+keybind.baublesinventory=Accessories
+
+name.AMULET=§6Slot: §eNecklace§r
+name.RING=§6Slot: §eRing§r
+name.BELT=§6Slot: §eBelt§r
+name.TRINKET=§6Slot: Head, Necklace, Body, Charm, Ring, Belt§r
+name.HEAD=§6Slot: §eHead§r
+name.BODY=§6Slot: §eBody§r
+name.CHARM=§6Slot: §eCharm§r

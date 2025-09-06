@@ -1,0 +1,14 @@
+container.inventory=§r
+itemGroup.buildingBlocks=§fBuilding Blocks§r
+itemGroup.decorations=§fDecoration Blocks§r
+itemGroup.redstone=§fRedstone Blocks§r
+itemGroup.transportation=§fTransportation§r
+itemGroup.misc=§fMiscellaneous§r
+itemGroup.search=§fSearch Items§r
+itemGroup.food=§fFood§r
+itemGroup.tools=§fTools & Utilities§r
+itemGroup.combat=§fCombat§r
+itemGroup.brewing=§fBrewing§r
+itemGroup.materials=§fIngredients§r
+itemGroup.inventory=§fSurvival Inventory§r
+itemGroup.hotbar=§fSaved Hotbars§r

@@ -1,0 +1,8 @@
+{
+  "parent": "appliedenergistics2:part/terminal_on",
+  "textures": {
+    "lightsBright": "thaumicenergistics:part/essentia_terminal/essentia_terminal_bright",
+    "lightsMedium": "thaumicenergistics:part/essentia_terminal/essentia_terminal_medium",
+    "lightsDark": "thaumicenergistics:part/essentia_terminal/essentia_terminal_dark"
+  }
+}

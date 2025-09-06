@@ -1,0 +1,7 @@
+{
+  "parent": "appliedenergistics2:part/export_bus_base",
+  "textures": {
+    "sides": "thaumicenergistics:part/essentia_export_bus/essentia_export_bus_sides",
+	"front": "thaumicenergistics:part/essentia_export_bus/essentia_export_bus"
+  }
+}
